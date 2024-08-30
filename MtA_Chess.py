@@ -9,7 +9,7 @@ st.markdown("""
 <h1 style="background: linear-gradient(to right, #892432, #B89112); 
             -webkit-background-clip: text; 
             color: transparent;">
-    Mount Allison University 2024 Open Chess Tournament
+    Mount Allison University 2025 Open Chess Tournament
 </h1>
 """, unsafe_allow_html=True)
 
