@@ -17,7 +17,7 @@ st.markdown("""
 
 st.markdown('Location: Mount Allison University Chapel, *York St, Sackville, NB E4L 1A6*')
 st.text('Time: TBA')
-st.text('Date: TBA')
+st.text('Date: FEB/MAR TBA')
 st.caption('Stay Tuned! We will be posting more information soon!')
 
 
